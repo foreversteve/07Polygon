@@ -1,0 +1,15 @@
+#test box mesh
+ident
+sphere
+0 0 0 60
+torus
+0 0 0 10 150
+rotate
+x 10
+rotate
+z 30
+move
+250 250 0
+apply
+save
+img.png
